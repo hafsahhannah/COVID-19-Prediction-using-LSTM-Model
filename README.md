@@ -3,6 +3,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 <br>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1><br>
 # COVID-19 Prediction using LSTM Model
  Create a deep learning model using LSTM neural  network to predict new cases (cases_new) in Malaysia using the past 30 days of number of cases.
 
@@ -33,6 +37,32 @@ COVID cases to determine if travel bans should be imposed or rescinded
 
 * You can run on colab or Python
 * Datasets are included in the dataset folder
+
+## Info
+
+### There are 2 dataset used in this analysis:-
+
+* cases_malaysia_train.csv 
+* cases_malaysia_test.csv 
+
+### Plot model 
+
+<h3><center>
+  <img src="https://github.com/hafsahhannah/COVID-19-Prediction-using-LSTM-Model/blob/53d026d0aae61cceb31a9f9d66567e161cb8c492/model.png" />
+</h3></center>
+
+### Tensorboard 
+
+<h3><center>
+  <img src="https://github.com/hafsahhannah/COVID-19-Prediction-using-LSTM-Model/blob/42c93f3938a6045a7e4d0e8a8062dc2e72370139/tensorboard_screenshot.PNG" />
+</h3></center>
+
+### Graph 
+
+<h3><center>
+  <img src="https://github.com/hafsahhannah/COVID-19-Prediction-using-LSTM-Model/blob/42c93f3938a6045a7e4d0e8a8062dc2e72370139/predicted_vs_actual_graph.png" />
+</h3></center>
+
 
 ## Authors
 
