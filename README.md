@@ -51,6 +51,12 @@ COVID cases to determine if travel bans should be imposed or rescinded
   <img src="https://github.com/hafsahhannah/COVID-19-Prediction-using-LSTM-Model/blob/53d026d0aae61cceb31a9f9d66567e161cb8c492/model.png" />
 </h3></center>
 
+### Model performance 
+
+<h3><center>
+  <img src="https://github.com/hafsahhannah/COVID-19-Prediction-using-LSTM-Model/blob/4fe11b1840ec031dbacc09322cee09439ee84283/Model_Fitting.PNG" />
+</h3></center>
+
 ### Tensorboard 
 
 <h3><center>
