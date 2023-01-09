@@ -44,7 +44,7 @@ Hafsah Hannah
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Open data on Covid in Malaysia]([https://github.com/matiassingers/awesome-readme](https://github.com/MoH-Malaysia/covid19-public))
+* [Open data on Covid in Malaysia](https://github.com/MoH-Malaysia/covid19-public)
 * [awesome-readme](https://github.com/matiassingers/awesome-readme)
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [dbader](https://github.com/dbader/readme-template)
